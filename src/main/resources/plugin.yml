@@ -1,0 +1,7 @@
+name: JsonToYaml
+version: ${project.version}
+author: Stian "1stian" Tofte
+website: https://ohneemc.com
+main: com.ohneemc.JsonToYaml
+api-version: "1.14"
+prefix: JsonToYaml
